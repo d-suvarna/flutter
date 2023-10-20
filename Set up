@@ -1,0 +1,19 @@
+--> https://docs.flutter.dev/get-started/install/linux
+--> sudo snap install flutter --classic --> run this command
+--> flutter doctor --> run this it shows required files 
+--> https://developer.android.com/studio?gclid=EAIaIQobChMI5LTouImEggMVWXErCh2BBQ-iEAAYASAAEgJYgvD_BwE&gclsrc=aw.ds
+--> download Android studio for linux
+--> extract file
+--> open studio.sh in terminal
+--> run ./studio.sh in terminal
+--> it will launch A  ndroid studio
+--> In Android studio Tools-> SDK manager-> Android SDK-> select required Android studio version->apply->ok
+--> Then create one folder in home using terminal -> mkdir Flutter -> cd Flutter/
+--> flutter create learningdart --> this will create flutter project called "learningdart"
+--> cd learningdart/
+--> code . --> to launch VsCode
+--> then start working
+---------------------
+NOTE:
+--> In VsCode "ctrl + p" to select which application to be launched (eg, web, desktop etc)
+
