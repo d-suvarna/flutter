@@ -1,3 +1,10 @@
 It is a framework to build user interface with Dart
 It is a combination of UI framework and Collection of tools
 Flutter will convert the code to machine code based on the platform(eg, Andriod, IOS)
+
+---------------------------
+Process:
+--> When you run application ,at first flutter will read,analyse,parse the entire code in main application
+--> then it will get compiled with the help of dart tools to the machine code of target platform
+--> then this machine code gets packaged or bundled into highly optimied code 
+--> then this will get executed/deployed in perticuler app
