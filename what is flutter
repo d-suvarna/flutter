@@ -8,3 +8,6 @@ Process:
 --> then it will get compiled with the help of dart tools to the machine code of target platform
 --> then this machine code gets packaged or bundled into highly optimied code 
 --> then this will get executed/deployed in perticuler app
+
+-----------------------
+const --> is a keyword of DART language, helps dart to optimize the runtime performance
