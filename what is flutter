@@ -11,3 +11,4 @@ Process:
 
 -----------------------
 const --> is a keyword of DART language, helps dart to optimize the runtime performance
+const startAlignment = Alignment.topRight; ==> "const" act as "final", which doesnot allow to re-initialise the value
