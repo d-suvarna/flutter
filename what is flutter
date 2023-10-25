@@ -2,7 +2,7 @@ It is a framework to build user interface with Dart
 It is a combination of UI framework and Collection of tools
 Flutter will convert the code to machine code based on the platform(eg, Andriod, IOS)
 ---------------------------
-git link : https://github.com/academind/flutter-complete-guide-course-resources/blob/main/Lecture%20Attachments/02%20Flutter%20%26%20Dart%20Basics%20I/dice-images.zip
+git source code link : https://github.com/academind/flutter-complete-guide-course-resources/blob/main/Lecture%20Attachments/02%20Flutter%20%26%20Dart%20Basics%20I/dice-images.zip
 ---------------------------
 Process:
 --> When you run application ,at first flutter will read,analyse,parse the entire code in main application
