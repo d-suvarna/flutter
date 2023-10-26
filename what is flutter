@@ -15,3 +15,7 @@ const --> is a keyword of DART language, helps dart to optimize the runtime perf
 const startAlignment = Alignment.topRight; 
 ==> "const" act as "final", which doesnot allow to re-initialise the value and also this value will be locked in during compilation
 so this wonnt be executed during execution instead it uses already locked or saved value from the memory/container
+
+-------------------------------------
+view->Appearance->panel
+flutter pub add google_fonts -> run this command in terminal to add google fonts as third party library to pubspec.yml
