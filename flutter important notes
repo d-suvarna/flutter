@@ -19,3 +19,5 @@ so this wonnt be executed during execution instead it uses already locked or sav
 -------------------------------------
 view->Appearance->panel
 flutter pub add google_fonts -> run this command in terminal to add google fonts as third party library to pubspec.yml
+
+flutter pub add uuid -> to add uuid library
