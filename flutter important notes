@@ -19,6 +19,10 @@ so this wonnt be executed during execution instead it uses already locked or sav
 -------------------------------------
 view->Appearance->panel
 flutter pub add google_fonts -> run this command in terminal to add google fonts as third party library to pubspec.yml
+link -> https://pub.dev/packages/google_fonts
 
 flutter pub add uuid -> to add uuid library
 link -> https://pub.dev/packages/uuid/install
+
+flutter pub add intl -> date formater package
+link -> https://pub.dev/packages/intl
