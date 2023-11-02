@@ -26,3 +26,6 @@ link -> https://pub.dev/packages/uuid/install
 
 flutter pub add intl -> date formater package
 link -> https://pub.dev/packages/intl
+
+-----------------------------------------
+trim() --> is a built in method to remove exces space from the beginning and end of a string
