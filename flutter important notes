@@ -29,3 +29,7 @@ link -> https://pub.dev/packages/intl
 
 -----------------------------------------
 trim() --> is a built in method to remove exces space from the beginning and end of a string
+
+used to parse the value to double:-
+double.tryParse(12.21) --> would return 12.21
+double.tryParse("test") --> would return null
