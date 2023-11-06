@@ -27,6 +27,12 @@ link -> https://pub.dev/packages/uuid/install
 flutter pub add intl -> date formater package
 link -> https://pub.dev/packages/intl
 
+flutter pub add transparent_image -> transparent image
+link -> https://pub.dev/packages/transparent_image/install
+
+flutter pub add flutter_riverpod -> riverpod
+link -> https://riverpod.dev/docs/introduction/getting_started
+
 -----------------------------------------
 trim() --> is a built in method to remove exces space from the beginning and end of a string
 
