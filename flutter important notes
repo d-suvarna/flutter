@@ -35,6 +35,8 @@ link -> https://riverpod.dev/docs/introduction/getting_started
 
 animation link -> https://docs.flutter.dev/ui/widgets/animation
 
+https://developer.mozilla.org/en-US/docs/Web/HTTP
+
 -----------------------------------------
 trim() --> is a built in method to remove exces space from the beginning and end of a string
 
