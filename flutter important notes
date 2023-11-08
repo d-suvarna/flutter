@@ -35,6 +35,8 @@ link -> https://riverpod.dev/docs/introduction/getting_started
 
 animation link -> https://docs.flutter.dev/ui/widgets/animation
 
+flutter http -> https://pub.dev/packages/http
+
 https://developer.mozilla.org/en-US/docs/Web/HTTP
 
 -----------------------------------------
