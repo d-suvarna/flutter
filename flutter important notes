@@ -36,6 +36,9 @@ link -> https://riverpod.dev/docs/introduction/getting_started
 flutter pub add image_picker -> image picker
 link -> https://pub.dev/packages/image_picker/install
 
+flutter pub add map_location_picker-> location picker
+link -> https://pub.dev/packages/map_location_picker/install
+
 animation link -> https://docs.flutter.dev/ui/widgets/animation
 
 flutter http -> https://pub.dev/packages/http
