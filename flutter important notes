@@ -33,6 +33,9 @@ link -> https://pub.dev/packages/transparent_image/install
 flutter pub add flutter_riverpod -> riverpod
 link -> https://riverpod.dev/docs/introduction/getting_started
 
+flutter pub add image_picker -> image picker
+link -> https://pub.dev/packages/image_picker/install
+
 animation link -> https://docs.flutter.dev/ui/widgets/animation
 
 flutter http -> https://pub.dev/packages/http
