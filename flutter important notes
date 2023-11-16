@@ -36,12 +36,15 @@ link -> https://riverpod.dev/docs/introduction/getting_started
 flutter pub add image_picker -> image picker
 link -> https://pub.dev/packages/image_picker/install
 
-flutter pub add location-> location 
+flutter pub add location -> location 
 link -> https://pub.dev/packages/location
+
+flutter pub add http -> for http
 
 animation link -> https://docs.flutter.dev/ui/widgets/animation
 
 flutter http -> https://pub.dev/packages/http
+
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP
 
