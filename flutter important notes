@@ -39,6 +39,12 @@ link -> https://pub.dev/packages/image_picker/install
 flutter pub add location -> location 
 link -> https://pub.dev/packages/location
 
+flutter pub add path -> path related package
+link -> https://pub.dev/packages/path/install
+
+flutter pub add sqflite -> sql related
+link -> https://pub.dev/packages/sqflite/install
+
 flutter pub add http -> for http
 
 animation link -> https://docs.flutter.dev/ui/widgets/animation
