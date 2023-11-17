@@ -49,6 +49,10 @@ geocode link -> https://developers.google.com/maps/documentation/geocoding/reque
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP
 
+location links -> google maps => https://developers.google.com/maps
+                  geocode => https://developers.google.com/maps/documentation/geocoding/overview
+                  google map static api => https://developers.google.com/maps/documentation/maps-static/overview
+
 -----------------------------------------
 trim() --> is a built in method to remove exces space from the beginning and end of a string
 
