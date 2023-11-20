@@ -55,6 +55,12 @@ geocode link -> https://developers.google.com/maps/documentation/geocoding/reque
 flutter pub add firebase_messaging -> for push notification
 link -> https://firebase.google.com/docs/cloud-messaging/flutter/client
 
+flutter pub add firebase_core -> firebase core
+link -> https://pub.dev/packages/firebase_core/install
+
+flutter pub add firebase_auth -> firebase auth
+link -> https://pub.dev/packages/firebase_auth/install
+
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP
 
