@@ -77,3 +77,12 @@ trim() --> is a built in method to remove exces space from the beginning and end
 used to parse the value to double:-
 double.tryParse(12.21) --> would return 12.21
 double.tryParse("test") --> would return null
+
+--------------------------------------------
+Solution for exception
+
+exception -> App requires Multidex support Multidex support is required for your android app to build since the number of methods has exceeded 64k. See https://docs.flutter.dev/deployment/android#enabling-multidex-support for more information. You may pass the --no-multidex flag to skip Flutter's multidex support to use a manual solution.
+-> flutter clean
+-> flutter pub get
+-> flutter run
+link -> https://stackoverflow.com/questions/71443293/app-requires-multidex-support-in-flutter
