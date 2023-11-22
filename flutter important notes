@@ -86,3 +86,6 @@ exception -> App requires Multidex support Multidex support is required for your
 -> flutter pub get
 -> flutter run
 link -> https://stackoverflow.com/questions/71443293/app-requires-multidex-support-in-flutter
+
+exception -> if flutter is not hitting backend API
+link -> https://stackoverflow.com/questions/65630743/how-to-solve-flutter-web-api-cors-error-only-with-dart-code/66879350#66879350
