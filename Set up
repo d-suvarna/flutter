@@ -25,6 +25,7 @@ https://github.com/academind/flutter-complete-guide-course-resources
 
 --------------------------------
 flutter upgrade to stable
+
 flutter upgrade
 flutter channel
 flutter channel stable --> if it gives problem of overwrite
