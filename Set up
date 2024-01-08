@@ -21,3 +21,16 @@ NOTE:
 ------------------------------
 Git ode:
 https://github.com/academind/flutter-complete-guide-course-resources
+
+
+--------------------------------
+flutter upgrade to stable
+flutter upgrade
+flutter channel
+flutter channel stable --> if it gives problem of overwrite
+then
+which flutter
+then checkout to the path -> cd /home/akshay/snap/flutter/common/flutter/bin
+flutter status -> if anything is there then git checkout <file name>
+flutter upgrade
+flutter channel stable
